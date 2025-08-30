@@ -2,6 +2,9 @@
 
 An Android app to download Instagram videos, reels, and IGTV with a simple and modern UI.
 
+## 🎥 Demo
+[Click here to watch the demo](assets/demo.mp4)
+
 ## ✨ Features
 - 🎥 Video Preview before downloading  
 - 📱 Material Design 3 UI  
